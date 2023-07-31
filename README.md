@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **JavaScript, html, python**
 
+- I have created few projects implementing html,js,css using json as my data with Rest API**
+
 - 📫 How to reach me **aliasad2003@gmail.com**
 
 
