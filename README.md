@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **JavaScript, html, python**
 
-- I have created few projects implementing html,js,css using json as my data with Rest API**
+- I have created a few projects implementing html,js,css using json as my data with Rest API**
+
+- Projects are in a private folder and will be public once graduated 
 
 - 📫 How to reach me **aliasad2003@gmail.com**
 
